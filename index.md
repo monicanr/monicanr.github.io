@@ -2,7 +2,7 @@
 title: Monica R.
 ---
 
-# Monica R.
+# 
 
 Third-year Bachelor of Cybersecurity student at Howest University of Applied Sciences, Bruges.
 
